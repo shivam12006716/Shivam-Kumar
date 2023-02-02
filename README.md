@@ -13,19 +13,19 @@
   <img align="right" alt="Coder" width="400" src="https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
  </p>
 
-- 🔭 I’m currently working on *Data Cleaning*
+- 🔭 I’m currently working on **Data Cleaning**
 
-- 🌱 I’m currently learning *HTML, CSS, Data Structure.*
+- 🌱 I’m currently learning **HTML, CSS, Data Structure.**
 
-- 👯 I’m looking to collaborate on *Software Design & Development Projects.*
+- 👯 I’m looking to collaborate on **Software Design & Development Projects.**
 
-- 🤝 I’m looking for help with *Algorithms.*
+- 🤝 I’m looking for help with **Algorithms.**
 
-- 💬 Ask me about *Data Structure & Algorithm*
+- 💬 Ask me about **Data Structure & Algorithm**
 
-- 📫 How to reach me *shivamrajshivam58@gmail.com*
+- 📫 How to reach me **shivamrajshivam58@gmail.com**
 
-- ⚡ Fun fact *I am too concern about projects.*
+- ⚡ Fun fact **I am too concern about projects.**
 
 <br/>
 
